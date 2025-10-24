@@ -1,1 +1,2 @@
-# Mi Card\n**Nombre:** Vianey\n**Dato curioso:** [tu dato]
+# Mi Card\\n**Nombre:** Vianey\\n**Dato curioso:** \[Me gusta mucho leer y dibujar]
+
